@@ -83,7 +83,7 @@ export const ArticleParamsForm = (props: PropsArticleParamsForm) => {
 		});
 	};
 
-	const submitParams = (e: React.FormEvent) => {
+	const submitParams = (e: React.FormEvent<HTMLFormElement>) => {
 		e.preventDefault();
 		onSubmit?.(params);
 	};
