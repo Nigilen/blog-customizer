@@ -4,7 +4,7 @@
 
 **СТЕК**: React, TS, JS, SCSS, HTML
 
-**ДЕПЛОЙ**: [ссылка]()
+**ДЕПЛОЙ**: [ссылка](https://nigilen.github.io/blog-customizer/)
 ___
 
 
