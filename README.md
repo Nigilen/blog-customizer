@@ -2,6 +2,8 @@
 
 Реализация кастомизации страницы блога с помощью React
 
+![image](https://github.com/Nigilen/blog-customizer/assets/38656496/daf8926d-b90c-40e8-a986-6be3619d4426)
+
 
 ## Используемые технологии
 - React
